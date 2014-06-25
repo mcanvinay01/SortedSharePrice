@@ -1,0 +1,7 @@
+Test Case for the exercise:-
+	1. Providing the correct file name with path
+	2. Checking the First line of the file doesn't contain any null entry
+	3. Checking whether the year & month entry of the file is not null
+	4. Validating the year & month entry for values
+	5. Checking whether the price value corresponding the company is in numeric form or not
+	6. Whether all the values are separated using (,) or not
